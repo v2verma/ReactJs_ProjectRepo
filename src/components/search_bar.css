@@ -1,0 +1,9 @@
+.sb {
+  width: 50%;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: whitesmoke;
+  height: 41px;
+  padding: 9px 1px 7px 10px;
+}
